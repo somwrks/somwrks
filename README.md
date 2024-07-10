@@ -1,4 +1,5 @@
-## Hi there 👋
+![image](https://github.com/somwrks/somwrks/assets/85481905/3a3b43b9-dde3-4086-b59c-f9d2d6df4697)
+
 
 <!--
 **somwrks/somwrks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
